@@ -1,7 +1,7 @@
 module github.com/mindhash/arrow-parquet-go
 
 require (
-	git.apache.org/thrift.git v0.13.0
+	github.com/apache/thrift v0.15.0
 	github.com/apache/arrow/go/arrow v0.0.0-20200420192102-5093b809d63a
 	github.com/frankban/quicktest v1.7.2 // indirect
 	github.com/golang/snappy v0.0.1
