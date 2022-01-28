@@ -1,4 +1,4 @@
-module github.com/mindhash/arrow-parquet-go
+module github.com/dipanjanb/arrow-parquet-go
 
 require (
 	github.com/apache/thrift v0.15.0
